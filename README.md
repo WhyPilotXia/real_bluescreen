@@ -1,2 +1,2 @@
-# real_bluescreen
+# 体验exe需要右键管理员运行！
 真蓝屏，补补钙
